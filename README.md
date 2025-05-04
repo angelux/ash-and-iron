@@ -15,7 +15,7 @@ The story was developed as a test of **long-form AI fiction writing**, focused o
 *   Embedding **symbolic and thematic motifs** throughout the text
 
 
-*The model used for generation was Gemini 1.5 Flash Preview.*
+*The model used for generation was Gemini 2.5 Flash Preview.*
 
 
 ---
